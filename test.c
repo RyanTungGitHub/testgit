@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*add by ryantung*/
 void main() {
 	int a;
 	a = 1;
