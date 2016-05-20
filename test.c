@@ -1,4 +1,5 @@
 #include <stdio.h>
+//3
 /*add by ryantung*/
 void main() {
 	int a;
